@@ -1,6 +1,6 @@
 # Mr.Rodgers
 
-#### By **Colton Thatcher**_
+#### By Colton Thatcher
 
 #### _A showcase in looping_
 
@@ -21,47 +21,23 @@ _This application takes a number inputted by the user. After said number is ente
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Go to [github](https://github.com/Coltthatcher/Mr-Rodgers)_
+* _Use $git clone (remote URL) this will copy the code and commit histories from a remote repository to your local repository_
+* _Open to in VS and start coding_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+
+_This code depends on HTML, JavaScript, JQueary, VSCODE and GIT to work on your machine_
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* I could not figure out how to implement the UI logic to work properly 
+
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+[MIT](https://en.wikipedia.org/wiki/MIT_License)
 
-Copyright (c) _date_ _author name(s)_
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Copyright (c) 10/29/21 Colton Thatcher
 
 
 Describe: arrayOne()
