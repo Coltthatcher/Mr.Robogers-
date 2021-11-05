@@ -23,8 +23,9 @@ function arrayOne(input) {
 $(document).ready(function() {
   $("#arrayCounter").submit(function(event) {
     event.preventDefault();
-    const totalCount = ($("#total-count").val());
-    
-    let totalCount = (array1)
+    let input = ($("#input").val());
+    const totalCount = arrayOne(input);
+    $("#total-count").text(totalCount)
+    $("#total-result").show();
   }
 )})

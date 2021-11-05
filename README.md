@@ -42,18 +42,18 @@ Copyright (c) 10/29/21 Colton Thatcher
 
 Describe: arrayOne()
 
-Test: "It should create an empty array "
+#### Test: "It should create an empty array "
 Code: let array1 = []
-Expected Output: empty array
+Expected Output: undefined
 
-Test: "It should check and see if the entered number contains three and turn the array into a string"
+#### Test: "It should check and see if the entered number contains three and turn the array into a string"
 Code: (array1[i].toString().includes(3))
-Expected Output:"Won't you be my neighbor?"
+Expected Output:undefined 
 
-Test: "It should check if the conditions above were not met and turn any numbers created into a string"
+#### Test: "It should check if the conditions above were not met and turn any numbers created into a string"
 Code:(array1[i].toString().includes(2))
-Expected Output: "Boop!"
+Expected Output:undefined
 
-Test "It should check if none of the top parameters are met"
+#### Test "It should check if none of the top parameters are met"
 Code:(array1[i].toString().includes(1)
-Expected Output: "Beep!" 
+Expected Output:undefined  
