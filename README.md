@@ -9,7 +9,7 @@
 * _HTML_
 * _CSS_
 * _JavaScript_
-* _JQueary_
+* _JQuery_
 * _Markdown_
 * _GIT_
 * _GITHUB_
@@ -27,11 +27,11 @@ _This application takes a number inputted by the user. After said number is ente
 * _When using the app load the index html in the browser by right clicking the index.html and selecting load live server. After that enter a number into the select box and see your results when you press submit.
 
 
-_This code depends on HTML, JavaScript, JQueary, VSCODE and GIT to work on your machine_
+_This code depends on HTML, JavaScript, JQuery, VSCODE and GIT to work on your machine_
 
 ## Known Bugs
 
-* I could not figure out how to implement the UI logic to work properly 
+* No buggies. 
 
 
 ## License
@@ -67,6 +67,12 @@ arrayOne(text)
 Expected Output:"Beep!" 
 
 #### Test "it should maintain a hierarchy with the exception of rules"
+Code:if (array1[i].toString().includes(3)) {
+      array1[i] = "Won't you be my neighbor?"
+    } else if (array1[i].toString().includes(2)) {
+      array1[i] = "Boop!"
+    } else if (array1[i].toString().includes(1)) { 
+      array1[i] = "Beep!"
 const test = 13
 arrayOne(text)
 Expected Output:"Won't you be my neighbor!"
