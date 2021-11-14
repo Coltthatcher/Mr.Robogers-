@@ -14,11 +14,6 @@ function arrayOne(input) {
   return array1; 
 };
 
-  
-
-
-
-  
 // UI Logic
 $(document).ready(function() {
   $("#arrayCounter").submit(function(event) {
@@ -28,4 +23,4 @@ $(document).ready(function() {
     $("#total-count").text(totalCount)
     $("#total-result").show();
   }
-)})
+)});
